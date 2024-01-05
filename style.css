@@ -1,0 +1,61 @@
+/* navber end */
+.nav-link{
+
+margin-right: 25px;
+margin-left: 25px;
+}
+/* navber end */
+/* carousel start */
+  .carousel-caption{
+    bottom: 220px;
+}
+  .carousel-caption h1{
+  font-size: 80px;
+  margin-top: 25px;
+  letter-spacing: 2px;
+  }
+ .carousel-caption p{
+    width: 60%;
+    margin:auto ;
+    font-size: 18px;
+    line-height: 1;
+    }
+ .caro-img{
+background-color: #1D1D1D;
+}
+.opa-img{
+
+   opacity: 0.5;
+}
+/* carousel end */
+.working-img{
+   width:34rem;
+   height: 30rem;
+}
+.register{
+   height: 56px;
+   width: 130px;
+   margin-top: 80px;
+   margin-left: 31.25rem;
+   
+}
+.star{
+   color:yellow;
+   margin-left: 400px;
+}
+.pera{
+   font-size: 19px;
+}
+.company{
+ width: 100px;
+ height: 70px;
+
+}
+.fa-brands{
+ color: white;
+ margin-left: 9px;
+
+}
+
+   
+
