@@ -1,4 +1,4 @@
-/* navber end */
+/* navber start*/
 .nav-link{
 
 margin-right: 25px;
@@ -32,6 +32,7 @@ background-color: #1D1D1D;
    width:34rem;
    height: 30rem;
 }
+/* rigister btn star */
 .register{
    height: 56px;
    width: 130px;
@@ -39,6 +40,7 @@ background-color: #1D1D1D;
    margin-left: 31.25rem;
    
 }
+/* rigister btn end */
 .star{
    color:yellow;
    margin-left: 400px;
