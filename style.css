@@ -1,11 +1,11 @@
-/* navber start*/
+/* navber section start*/
 .nav-link{
 
 margin-right: 25px;
 margin-left: 25px;
 }
-/* navber end */
-/* carousel start */
+/* navber  section end */
+/* carousel  section start */
   .carousel-caption{
     bottom: 220px;
 }
@@ -27,7 +27,7 @@ background-color: #1D1D1D;
 
    opacity: 0.5;
 }
-/* carousel end */
+/* carousel section end */
 .working-img{
    width:34rem;
    height: 30rem;
